@@ -13,7 +13,7 @@ I am a Software Engineer (backend and frontend) committed to working according t
 
 
 <a href="https://github.com/pope001/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pope001&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pope001&repo=github-readme-stats&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/pope001
 )">
