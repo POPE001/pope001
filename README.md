@@ -3,20 +3,32 @@ I am a Software Engineer (backend and frontend) committed to working according t
 
 - 🔭 I’m currently working on BrandFourFive Website
 - 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on Opensource & Blockchain Hackathon Project
+- 👯 I’m looking to collaborate on Opensource & Blockchain Hackathon Projects
 - 💬 Ask me about Frontend & Backend 
 - 📫 How to reach me: [Twitter-@awoyam001](https://twitter.com/awoyam001), [LinkedIn-Mayowa Adeoni](https://www.linkedin.com/in/mayowa-adeoni-9a28a5108)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love challenges
-- 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=pope001&show_icons=true&theme=radical&repo=github-readme-stats)
 
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=pope001)
+
+
+
+<a href="https://github.com/pope001/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pope001&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/pope001
+)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pope001&layout=compact" />
+</a>
+
 
 
 <!--
-**POPE001/pope001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![enter image description here](https://github-readme-stats.vercel.app/api?username=pope001&show_icons=true&theme=radical&repo=github-readme-stats)
 
+![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=pope001&layout=compact)
+
+**POPE001/pope001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github-readme-stats.vercel.app/api/top-langs/?username=pope001
 Here are some ideas to get you started:- 🤔 I’m looking for help with ...
 
 
