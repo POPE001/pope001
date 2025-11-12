@@ -1,5 +1,5 @@
 ### Hola, I am Mayowa Adeoni👋
-I am a Software Engineer  committed to working according to specifications and requirements. My mantra in life is: 'if at first you don't succeed, call it version 1.0 and try again'. I am open to a Machine Learning role where I can further pursue my passion for technology. More importantly, I am always open to learning new things.
+I am a Software Engineer  committed to working according to specifications and requirements. My mantra in life is: 'if at first you don't succeed, call it version 1.0 and try again'. I am open to a AI/Machine Learning role where I can further pursue my passion for technology. More importantly, I am always open to learning new things.
 
 - 🔭 
 - 🌱 I’m always learning 
