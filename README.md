@@ -5,7 +5,7 @@ I am a Software Engineer  committed to working according to specifications and r
 - 🌱 I’m always learning 
 - 👯 I’m looking to collaborate on Opensource & ML,LLM Hackathon Projects
 - 💬 Ask me anything Software  
-- 📫 How to reach me: [Twitter-@awoyam001](https://twitter.com/_maycode), [LinkedIn-Mayowa Adeoni](https://www.linkedin.com/in/mayowa-adeoni)
+- 📫 How to reach me: [Twitter-@_maycode](https://twitter.com/_maycode), [LinkedIn-Mayowa Adeoni](https://www.linkedin.com/in/mayowa-adeoni)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love challenges
 
